@@ -1,5 +1,0 @@
-# Librerias
-pandas
-pymongo
-dotenv
-jupyter

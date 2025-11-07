@@ -2,6 +2,7 @@
 myenv/
  .myenv/
  .myenv
+_pycache_
 
 # Secrets
 .env
